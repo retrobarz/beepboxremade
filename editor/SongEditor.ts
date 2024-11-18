@@ -151,7 +151,7 @@ export class SongEditor {
 		option({value: "copyUrl"}, "⎘ Copy Song URL"),
 		option({value: "shareUrl"}, "⤳ Share Song URL"),
 		option({value: "shortenUrl"}, "… Shorten Song URL"),
-		option({value: "viewPlayer"}, "▶ View in Song Player"),
+		option({value: "viewPlayer"}, "▶ View in the Remade Song Player"),
 		option({value: "copyEmbed"}, "⎘ Copy HTML Embed Code"),
 		option({value: "songRecovery"}, "⚠ Recover Recent Song..."),
 	);
